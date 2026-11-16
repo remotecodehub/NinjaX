@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NinjaX.Core/NinjaX.Core.csproj" />
+    <Project Path="src/NinjaX/NinjaX.csproj">
+      <Deploy />
+    </Project>
+  </Folder>
+</Solution>
